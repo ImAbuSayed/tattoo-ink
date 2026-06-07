@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tattoo Ink
+
+This log tracks the cryptographic history and versioning for the song **Tattoo Ink** (tattoo-ink).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-08T03:08:36.003720 | `v1` | `6d9c4ecb8659a0d42cc8d1c2262e53927dec9a06d4b8eec9b0920a6037d87030` | `924ddc97dab9ea683adaaf5bd7dd9dc986a5408f39cdccdb6cf8fecce8393cc7` | `2026-06-08_tattoo-ink-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
