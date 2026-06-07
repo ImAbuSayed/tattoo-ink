@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | Pending |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Tattoo Ink](https://music.abusayed.com.bd/Licensing/) |
+| **Get License** | [Music Rights & Licensing for Tattoo Ink](https://music.abusayed.com.bd/Licensing/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6d9c4ecb8659a0d42cc8d1c2262e53927dec9a06d4b8eec9b0920a6037d87030` |
 | **Timestamp** | June 08, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
